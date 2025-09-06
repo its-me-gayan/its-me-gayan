@@ -26,8 +26,10 @@ Welcome to my GitHub profile! I'm a passionate developer from Sri Lanka, current
 ## 📂 Projects
 Here are some highlights from my GitHub repositories:
 
-- **[Project Name](https://github.com/its-me-gayan/)** - Brief description of the project.
-- **[Another Project](https://github.com/its-me-gayan/)** - Brief description.
+
+- **WebfluxSSEQuartzExample** – A demo combining Spring WebFlux (SSE) and Quartz Scheduler for real-time job progress streaming.
+
+- **ryanair-flight-search-service** – A reactive RESTful API that delivers direct and interconnected flight options using external APIs. Built with Java 21, Spring Boot 3.0.7, WebFlux, and Docker. :contentReference[oaicite:5]{index=5}
 
 Feel free to explore my repositories to see what I'm working on!
 
